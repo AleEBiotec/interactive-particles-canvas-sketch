@@ -12,7 +12,7 @@ El proyecto explora conceptos de creative coding, animación procedural, interac
 
 ## Vista previa
 
-[Vista previa de la animación](assets/particles_demo.mp4) -->
+[Vista previa de la animación](assets/particles-demo.gif)
 
 ## Tecnologías utilizadas
 
