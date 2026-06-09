@@ -83,7 +83,6 @@ canvas-sketch sketch-particles.js --open
 - Explorar simulaciones físicas simples.
 - Comprender sistemas de partículas.
 - Experimentar con interacción en tiempo real.
-- Construir proyectos para portafolio profesional.
 
 ## Cómo funciona
 
