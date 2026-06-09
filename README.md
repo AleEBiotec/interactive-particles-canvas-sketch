@@ -1,6 +1,5 @@
 # Animación interactiva de partículas
 
-Autor: Ale Enriquez
 
 ## Descripción
 
